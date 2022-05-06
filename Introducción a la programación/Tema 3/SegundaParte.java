@@ -3,7 +3,7 @@ public class Coche {
     private int nroPuertas;
     
     /*
-    Omitimos crear un constructor. No sirve que se inicialice la variable a cero.
+    Omitimos crear un constructor. Nos sirve que se inicialice la variable a cero.
     Y los métodos getter y setter para la variable nroPuertas
     */
     public int getNroPuertas() {
